@@ -1,7 +1,7 @@
 # Kickoff: perfil político de Álvaro Padilla
 
 > Documento de arranque. Recoge las preguntas que tienen que quedar respondidas para empezar y el plan de trabajo de las primeras 12 semanas.
-> Estado: **pendiente de respuestas**. Fecha: 6 de octubre de 2026.
+> Estado: **respuestas de la ronda 1 recibidas** (ver `estrategia/`). Fecha: 6 de octubre de 2026.
 
 ---
 
